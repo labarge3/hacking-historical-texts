@@ -18,7 +18,7 @@ Department of History<br />
 [Matt King](mailto:matthewking1@usf.edu)<br />
 Assistant Professor of Medieval History and Digital Humanities<br />
 Department of History<br />
-[University of South Florida]
+[University of South Florida](http://history.usf.edu/)
 
 ## Textbook
 
