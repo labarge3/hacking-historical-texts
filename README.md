@@ -13,7 +13,7 @@ Instructor of Ancient History and Digital Humanities<br />
 Department of History<br />
 [University of South Florida](https://github.com/usf-portal)
 
-## Student Info
+## Imposter Student Info
 
 [Matt King](mailto:matthewking1@usf.edu)<br />
 Assistant Professor of Medieval History and Digital Humanities<br />
