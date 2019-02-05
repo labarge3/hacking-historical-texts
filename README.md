@@ -13,6 +13,13 @@ Instructor of Ancient History and Digital Humanities<br />
 Department of History<br />
 [University of South Florida](https://github.com/usf-portal)
 
+## Student Info
+
+[Matt King](mailto:matthewking1@usf.edu)<br />
+Assistant Professor of Medieval History and Digital Humanities<br />
+Department of History<br />
+[University of South Florida]
+
 ## Textbook
 
 Graham, Shawn, Ian Milligan, and Scott Weingart. [*Exploring Big Historical Data: The Historian's Macroscope*](https://www.amazon.com/Exploring-Big-Historical-Data-Historians/dp/1783266376), London: Imperial College Press, 2016.
